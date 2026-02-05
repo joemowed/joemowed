@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="github_banner.png" alt="Profile Image"/>
+  <img src="github_banner_cache_update.png" alt="Profile Image"/>
 </p>
